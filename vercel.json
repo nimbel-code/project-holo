@@ -1,3 +1,9 @@
 {
-  "redirects": [{ "src": "/(.*)", "dest": "/" }]
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "/",
+      "statusCode": 200
+    }
+  ]
 }
