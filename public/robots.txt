@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /api
+Host: https://grow-meeting.nimbel.net/
+Sitemap: https://grow-meeting.nimbel.net/sitemap.xml
