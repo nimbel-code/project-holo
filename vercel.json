@@ -1,3 +1,5 @@
 {
-  "rewrites": [{ "source": "/:roomName", "destination": "/index.html" }]
+  "redirects": [
+    { "source": "/:roomName", "destination": "/index.html", "statusCode": 200 }
+  ]
 }
